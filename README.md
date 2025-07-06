@@ -13,7 +13,12 @@ Through interaction (clicking) and consumption (absorbing orbiting bodies), the 
 The final level culminates in the singularity becoming so massive that it consumes the fabric of reality itself, collapsing into a new universe where a new, insignificant singularity is born, repeating the cycle endlessly.
 
 ---
+## Playing Instructions
 
+* Download the folder **Game Builds**
+* Run **The Singularity.exe**
+
+---
 ## Basic Controls
 
 * **Click** the central circle (the "Singularity") to interact with it.
