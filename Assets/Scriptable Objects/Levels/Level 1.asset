@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be351d11f298a94c98ed60afb9286b8, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  objectsToAbsorbForNextLevel: 40
+  cameraZoom: 12
+  growthPerAbsorption: 0.1
+  levelColor: {r: 1, g: 1, b: 1, a: 1}
+  corePatternColor: {r: 0.3754716, g: 1, b: 1, a: 1}
+  coreBGColor: {r: 1, g: 1, b: 1, a: 0}
+  soundtrack: {fileID: 8300000, guid: b61512f04f9a61744a15d41dadda1667, type: 3}
+  musicVolume: 1
+  absorptionSounds:
+  - {fileID: 8300000, guid: b25d6d50c1970a141b28cc542890d8a9, type: 3}
+  - {fileID: 8300000, guid: ac50b0d0ac859ae499f2fb1c285dd413, type: 3}
+  - {fileID: 8300000, guid: 34e97085b2d2c8e429c520ebb79c689b, type: 3}
+  transitionSounds:
+  - {fileID: 8300000, guid: 645970fcc6704c547922a846a937e62a, type: 3}
+  - {fileID: 8300000, guid: cc998bd41b8e7234882c2f4eee20c537, type: 3}
+  - {fileID: 8300000, guid: 255755ec3edbf9541949baac6ac0e93e, type: 3}
+  absorbablePrefabs:
+  - {fileID: 4227363679767396361, guid: 1f86a79fcec4c924e9f5b0d3a8377a5d, type: 3}
+  - {fileID: 3224211371549381437, guid: 5b02fdbacb7231e449c81cc80374a696, type: 3}
+  - {fileID: 3253246992999109705, guid: 4e7f3f8fb3451ee47861ab9500426da4, type: 3}
+  generationRate: 3
+  maxObjects: 40
+  bloomIntensity: 1.25
+  vignetteIntensity: 0.6
+  chromaticAberrationIntensity: 0.1
+  screenSpaceLensFlareIntensity: 0.1
+  clickParameters: {fileID: 11400000, guid: 360d7c56310bcfc48b30f44509ed374f, type: 2}

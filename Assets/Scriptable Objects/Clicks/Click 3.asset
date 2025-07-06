@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ebe60f9f128a234da05c3934b5e7c2a, type: 3}
+  m_Name: Click 3
+  m_EditorClassIdentifier: 
+  clickSounds:
+  - {fileID: 8300000, guid: bc899cb7a72d1924d9e6d0e7fa54e47f, type: 3}
+  - {fileID: 8300000, guid: 8c828e29cdad1084f89d32e7a5db9c08, type: 3}
+  - {fileID: 8300000, guid: 668519df99d03444491091ca5a4ea3e7, type: 3}
+  shockwavePrefab: {fileID: 7538754491618470193, guid: 05b9b7e33a6e2f0419e0be4183cf4ccc, type: 3}
+  shockwaveDuration: 0.5
+  shockwaveEndScale: 5
+  shockwaveColor: {r: 1, g: 1, b: 1, a: 0.6117647}
+  shockwaveRotationSpeed: 90
+  cameraShakeIntensity: 0.4
+  distortionPeakIntensity: -0.4
+  distortionDuration: 0.3
