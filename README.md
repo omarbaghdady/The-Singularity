@@ -3,6 +3,8 @@
 This document provides an overview of the "Singularity" project, its features, and its technical architecture. It was developed as a vertical slice prototype in under 7 hours to demonstrate a "juicy" core gameplay loop and a scalable architecture.
 
 ---
+Gameplay Video at https://drive.google.com/file/d/1bVyiGt4_CL-RK2RlyoBjlcsmdww-xjOz/view?usp=sharing
+
 ![alt text](https://github.com/omarbaghdady/The-Singularity/blob/main/Screenshots/6.The%20singularity.png)
 ## Story
 
