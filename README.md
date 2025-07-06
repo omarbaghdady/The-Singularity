@@ -3,7 +3,7 @@
 This document provides an overview of the "Singularity" project, its features, and its technical architecture. It was developed as a vertical slice prototype in under 7 hours to demonstrate a "juicy" core gameplay loop and a scalable architecture.
 
 ---
-
+![alt text](https://github.com/omarbaghdady/The-Singularity/blob/main/Screenshots/6.The%20singularity.png)
 ## Story
 
 The game, to me, represents, abstractly the cosmic life cycle of a black hole. The player begins as an insignificant seed of gravity in a vast, empty universe, having little effect on the world.
@@ -13,7 +13,12 @@ Through interaction (clicking) and consumption (absorbing orbiting bodies), the 
 The final level culminates in the singularity becoming so massive that it consumes the fabric of reality itself, collapsing into a new universe where a new, insignificant singularity is born, repeating the cycle endlessly.
 
 ---
+## Playing Instructions
 
+* Download the folder **Game Builds**
+* Run **The Singularity.exe**
+
+---
 ## Basic Controls
 
 * **Click** the central circle (the "Singularity") to interact with it.
