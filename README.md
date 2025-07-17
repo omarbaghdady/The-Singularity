@@ -104,3 +104,5 @@ To make the game "more of a game," player choice would be introduced.
 
 ## Developed by:
 Omar Zaki
+## Music and SFX by:
+Moahmed ELtantawi
